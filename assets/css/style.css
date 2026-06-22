@@ -3,20 +3,20 @@ p { font-family: Arial, sans-serif; font-size: 14px; }
             header {
                 background-color: blue;
                 color: white;
-                padding: 20px;
+                padding: 10px;
                 border: 9px solid lightgray;
                 margin: 9px;
             }
             nav {
                 background-color: orangered;
-                padding: 20px;
+                padding: 10px;
                 border: 9px solid lightslategray;
                 margin: 9px;
             }
             section {
                 background-color: yellow;
-                padding: 20px;
-                margin-bottom: 20px;
+                padding: 10px;
+                margin: 10px;
                 border: 9px solid lightslategray;
             }
             article {
@@ -29,7 +29,7 @@ p { font-family: Arial, sans-serif; font-size: 14px; }
             aside {
                 background-color:white;  
                 color: white;
-                padding: 20px;
+                padding: 10px;
                 font-size: 14px;
                 font-weight: bold;
                 border: 9px solid lightslategray;
