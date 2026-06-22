@@ -1,1 +1,78 @@
 p { font-family: Arial, sans-serif; font-size: 14px; }
+            body {
+                background-color: white;
+                padding: 20px;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                font-family: sans-serif;
+            }
+            .container {
+                width: 100%;
+                max-width: 1200px;
+                background-color: white;
+                border: 1px solid white;
+            }
+            header {
+                background-color: blue;
+                color: white;
+                padding: 20px;
+            }
+            header h1 {
+                font-size: 24px;
+                margin-bottom: 15px;
+            }
+            nav {
+                background-color: orangered;
+                padding: 15px;
+            }
+            nav ul {
+                list-style-type: disc;
+                padding-left: 20px;
+            }
+            nav ul li a {
+                color: blue;
+                text-decoration: underline;
+                font-size: 14px;
+                line-height: 1.5;
+            }
+            main-content {
+                padding: 20px;
+            }
+            section {
+                background-color: yellow;
+                padding: 20px;
+                margin-bottom: 20px;
+            }
+            section h2 {
+                font-size: 18px;
+                color: black;
+                margin-bottom: 15px;
+            }
+            article {
+                background-color: lightgreen;
+                padding: 20px;
+                color: black;
+            }
+            article h3 {
+                font-size: 16px;
+                margin-bottom: 10px;
+            }
+            article p {
+                font-size: 14px;
+            }
+            aside {
+                background-color:white;  
+                color: white;
+                padding: 20px;
+                font-size: 14px;
+                font-weight: bold;
+            }
+            footer {
+                background-color: darkslategrey;
+                color: white;
+                text-align: center;
+                padding: 20px;
+                font-size: 14px;
+                font-weight: bold;
+            }
