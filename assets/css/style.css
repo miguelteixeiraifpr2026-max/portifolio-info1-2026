@@ -32,6 +32,7 @@ p { font-family: Arial, sans-serif; font-size: 14px; }
             }
             aside {
                 background-color:purple;
+                color:white;
                 background-clip: content-box;  
                 padding: 10px;
                 font-size: 14px;
