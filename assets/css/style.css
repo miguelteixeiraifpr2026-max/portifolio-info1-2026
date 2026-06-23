@@ -2,6 +2,7 @@ p { font-family: Arial, sans-serif; font-size: 14px; }
 
             header {
                 background-color: blue;
+                background-clip: content-box;
                 color: white;
                 padding: 10px;
                 border: 9px solid lightgray;
@@ -9,25 +10,29 @@ p { font-family: Arial, sans-serif; font-size: 14px; }
             }
             nav {
                 background-color: orangered;
+                background-clip: content-box;
                 padding: 10px;
                 border: 9px solid lightslategray;
                 margin: 9px;
             }
             section {
                 background-color: yellow;
+                background-clip: content-box;
                 padding: 10px;
                 margin: 10px;
                 border: 9px solid lightslategray;
             }
             article {
                 background-color: lightgreen;
+                background-clip: content-box;
                 padding: 10px;
                 color: black;
                 border: 9px dashed lightslategray;
                 margin: 9px;
             }
             aside {
-                background-color:purple;  
+                background-color:purple;
+                background-clip: content-box;  
                 padding: 10px;
                 font-size: 14px;
                 font-weight: bold;
@@ -36,6 +41,7 @@ p { font-family: Arial, sans-serif; font-size: 14px; }
             }
             footer {
                 background-color: darkslategrey;
+                background-clip: content-box;
                 color: white;
                 text-align: center;
                 padding: 20px;
