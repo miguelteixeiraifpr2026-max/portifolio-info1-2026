@@ -12,3 +12,19 @@
   padding: 50px;
   text-align: center;  
 }
+.quadrado_blue {
+  background-color: blue;
+  width: 50px;
+  height: 50px;
+  margin: 50px;
+  padding: 50px;
+  text-align: center;  
+}
+.quadrado_yellow {
+  background-color: yellow;
+  width: 50px;
+  height: 50px;
+  margin: 50px;
+  padding: 50px;
+  text-align: center;  
+}
